@@ -23,3 +23,4 @@ Impmemented
 TODO:
 - finish favorites
 - typeahead search
+- component unit testing
